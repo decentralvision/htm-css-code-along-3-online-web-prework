@@ -38,3 +38,10 @@ figcaption {
 /* ID selector */
 
 #logo { background: aqua;}
+
+/* Descendant selector */
+
+#logo h1 {
+  /* only styles h1 with id element = logo */
+  font-family: 'Clicker Script', cursive;
+}
