@@ -45,3 +45,8 @@ figcaption {
   /* only styles h1 with id element = logo */
   font-family: 'Clicker Script', cursive;
 }
+
+#logo h2 {
+  /* only styles h1 with id element = logo */
+  font-family: 'Elsie Swash Caps', cursive;
+}
